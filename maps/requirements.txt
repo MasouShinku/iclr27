@@ -1,0 +1,11 @@
+# Install torch and a matching torch-scatter wheel first; see README.md.
+torch>=2.6
+torch-geometric
+torch-scatter
+lightning
+numpy
+scipy
+scikit-fem
+gmsh
+pygmsh
+meshio
